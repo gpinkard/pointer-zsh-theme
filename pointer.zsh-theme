@@ -1,7 +1,7 @@
 # zsh theme by Gabriel Pinkard
 
 local branch='$(git_prompt_info)%{$reset_color%}'
-local dir='%{$fg_bold[blue]%}%{$reset_color%}%~% %{$fg_bold[blue]%}%{$reset_color%}'
+local dir='%{$fg_bold[blue]%}%{$reset_color%}[%~%\]%{$fg_bold[blue]%}%{$reset_color%}'
 local return='%(?:%{$fg_bold[green]%}-> :%{$fg_bold[red]%}-> )'
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[white]%} ::%{$fg_bold[yellow]%} on  "
