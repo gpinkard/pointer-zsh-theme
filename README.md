@@ -7,4 +7,7 @@ know if the repository is clean or dirty. I did not include any superfluous junk
 you could easily find elsewhere on your computer (time, date, etc.), so the prompt 
 is very quick and responsive.
 
+#### [EXPECTS OH-MY-ZSH](https://github.com/robbyrussell/oh-my-zsh)
+
+
 ![Screenshot](pointerTheme.png)
